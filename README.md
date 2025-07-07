@@ -43,11 +43,17 @@ The board features a custom star-patterned connection grid where each intersecti
 | Exit              | `N` (on win screen) |
 
 ---
-
+## Start Screen
 ![Start Screen](images/StartScreen.png)
+---
+## Toss Screen
 ![Toss Screen](images/TossScreen.png)
+## Gameplay
+---
 ![Gameplay](images/Gameplay.png)
-![Winning Screen](images/)
+## Winner Screen
+---
+![Winning Screen](images/WinnerScreen.png)
 
 
 ## ⚙️ How to Run
