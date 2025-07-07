@@ -44,6 +44,12 @@ The board features a custom star-patterned connection grid where each intersecti
 
 ---
 
+![Start Screen](images/StartScreen.png)
+![Toss Screen](images/TossScreen.png)
+![Gameplay](images/Gameplay.png)
+![Winning Screen](images/)
+
+
 ## ⚙️ How to Run
 
 ### 🧱 Prerequisites
